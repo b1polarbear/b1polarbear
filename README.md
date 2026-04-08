@@ -1,5 +1,5 @@
+<img src="6abf131026504226700bb12c2a2b13c2.gif" width="400">
 ## Hi there 👋
-
 <!--
 **b1polarbear/b1polarbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
