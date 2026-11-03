@@ -1,16 +1,4 @@
-<!--
-  GITHUB PROFILE README — CUSTOMIZATION GUIDE
-  1. Replace YOUR_NAME, YOUR_USERNAME, YOUR_EMAIL and other ALL_CAPS placeholders.
-  2. Replace the SVGs in assets/ with your own images (keep the same filenames),
-     or change their paths below. You can use PNG/JPG/WebP as well.
-  3. Edit the tech stack, projects, and social links to suit you.
-  4. To show this on your profile, create a PUBLIC repository with the exact
-     same name as your GitHub username and put README.md at its root.
-
-  GitHub READMEs cannot control the actual GitHub sidebar. This file only
-  renders the content panel shown in the design.
---><div align="center">  <img src="assets/banner.svg" alt="Purple sunset mountain banner — replace with your own" width="100%" />  
-
+<div align="center">  <img src="IMG_4319.png" alt="Purple sunset mountain banner — replace with your own" width="100%" />  
 
 Hey, I'm YOUR_NAME! 👋
   Full-Stack Developer · Open Source · UI/UX Enthusiast
