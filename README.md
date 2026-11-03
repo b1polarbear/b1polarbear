@@ -1,37 +1,28 @@
-<div align="center">  <img src="IMG_4319.png" alt="Purple sunset mountain banner — replace with your own" width="100%" />  
+<div align="center">  
+  <img src="IMG_4319.png" alt="banner" width="100%" />  
+<blockquote>Turning ideas into code, exploring cybersecurity, and creating things from scratch.</blockquote>
+</div>
 
-Hey, I'm YOUR_NAME! 👋
-  Full-Stack Developer · Open Source · UI/UX Enthusiast
+  
+<!-- ABOUT ME + TECH STACK -->
+<p align="center">
+  <img src="assets/about-tech.svg" width="100%" alt="About Me and Tech Stack" />
+</p>
 
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D94680?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-222222?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</div><table>
-<tr>
-<td width="52%" valign="top">👋 About Me
-Hi! I'm YOUR_NAME, a passionate developer who loves building useful, beautiful, and impactful web experiences.
-- 💻 Building YOUR_CURRENT_PROJECT
-- 🌱 Learning WHAT_YOU_ARE_LEARNING
-- 🤝 Open to collaborating on YOUR_INTERESTS
-- 🎨 Into clean code, good design, and smooth UX
-- 📍 Based in YOUR_LOCATION
-</td>
-<td width="48%" valign="top">🛠️ Tech Stack
-<!-- Add or remove badges! Find more at https://shields.io/ and https://simpleicons.org/ --><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-<img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
-</tr>
-</table>🚀 Featured Projects
+
+<div>
+  <h2>🚀 What I'm Up To</h2>
+  <ul>
+    <li>💻 Developing applications and improving my software engineering skills</li>
+    <li>🔐 Expanding my knowledge of cybersecurity, security engineering, and ethical hacking</li>
+    <li>🎮 Creating games and experimenting with game development</li>
+    <li>🎨 Designing graphics, layouts, and creative projects using Canva</li>
+    <li>🔎 Exploring digital forensics, forensic investigations, and cybercrime</li>
+    <li>🛠️ Building random projects just because I thought they'd be cool</li>
+  </ul>
+</div>
+
+🚀 Featured Projects
 <!-- Replace each image, title, description, repository URL, and live demo URL. --><table>
 <tr>
 <td width="33%" valign="top">
@@ -56,7 +47,9 @@ Hi! I'm YOUR_NAME, a passionate developer who loves building useful, beautiful, 
   <a href="https://github.com/YOUR_USERNAME/PROJECT_THREE_REPO">🔗 Code</a> · <a href="https://YOUR_PROJECT_THREE_DEMO_URL">🚀 Live Demo</a>
 </td>
 </tr>
-</table>📊 GitHub Stats
+</table>
+
+📊 GitHub Stats
 <!-- Dynamic third-party stat images. Replace YOUR_USERNAME in BOTH URLs.
      They may occasionally be unavailable because they are hosted elsewhere. --><div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=C084FC&icon_color=9B8AFB&text_color=E5E7EB" alt="GitHub stats" />
@@ -69,7 +62,9 @@ Hi! I'm YOUR_NAME, a passionate developer who loves building useful, beautiful, 
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D94680?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-222222?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a>
-</div>🖼️ Gallery / Screenshots
+</div>
+
+🖼️ Gallery / Screenshots
 <!-- Replace these 4 SVG files with your own images or change the src paths. --><table>
 <tr>
 <td width="25%"><img src="assets/gallery-1.svg" width="100%" alt="Screenshot 1" /></td>
