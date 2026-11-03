@@ -145,6 +145,6 @@
   </div>
 </div>
 
-<div align="center">
-  <sub>✨ Thanks for visiting! Feel free to explore my repos and get in touch.</sub>
+<div align="center"> 
+  <img src="footer.png" alt="banner" width="100%" /> 
 </div>
