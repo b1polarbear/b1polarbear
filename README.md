@@ -29,7 +29,7 @@
     <table>
       <tr>
         <td width="33%" valign="top">
-          <img src="./projectExosignal.png" width="100%" alt="Project EXOSIGNAL" />
+          <img src="./exosignal.png" width="100%" alt="Project EXOSIGNAL" />
           <h3>👽 Project: EXOSIGNAL</h3>
           <p>A first-person shooter game on Roblox where players fight against extraterrestrial threats.</p>
           <p><strong>Stack:</strong> Luau · Blender</p>
@@ -52,18 +52,6 @@
       </tr>
     </table>
   </div>
-
-   <div>
-     <h2>🖼️ Gallery / Screenshots</h2>
-     <table>
-        <tr>
-          <td width="25%"><img src="assets/gallery-1.svg" width="100%" alt="Screenshot 1" /></td>
-          <td width="25%"><img src="assets/gallery-2.svg" width="100%" alt="Screenshot 2" /></td>
-          <td width="25%"><img src="assets/gallery-3.svg" width="100%" alt="Screenshot 3" /></td>
-          <td width="25%"><img src="assets/gallery-4.svg" width="100%" alt="Screenshot 4" /></td>
-        </tr>
-      </table>
-   </div>
   
   <div align="center">
     <h2>🔗 Connect With Me</h2>
