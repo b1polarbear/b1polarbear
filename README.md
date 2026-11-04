@@ -29,7 +29,7 @@
      <table>
        <tr>
           <td width="33%" valign="top">
-          <a href=""><img src="assets/project-1.svg" width="100%" alt="Project One screenshot" /></a>
+          <img src="projectExosignal.png" width="100%" alt="Project One screenshot" />
           <h3>👽Project: EXOSIGNAL</h3>
           <p>Project: EXOSIGNAL is a first person shooter game on Roblox.</p>
           <p><strong>Stack:</strong> Luau · Blender</p>
