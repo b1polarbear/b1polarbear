@@ -90,10 +90,10 @@
         <img src="https://img.shields.io/badge/C++-284544?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
         <img src="https://img.shields.io/badge/Python-253131?style=for-the-badge&logo=python&logoColor=3776AB" />
         <img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=DEA584" />
-        <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=777BB4" />
-        <img src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-        <img src="https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=2C2D72" />
-        <img src="https://img.shields.io/badge/Luau-20232A?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" />
+        <img src="https://img.shields.io/badge/PHP-1D2026?style=for-the-badge&logo=php&logoColor=777BB4" />
+        <img src="https://img.shields.io/badge/Kotlin-1A1C22?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+        <img src="https://img.shields.io/badge/Lua-17191E?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+        <img src="https://img.shields.io/badge/Luau-131519?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" />
       </div>
       <div>
       <h3>🌐 Frameworks & Backend</h3>
@@ -106,8 +106,8 @@
       <div>
       <h3>🗄️ Databases</h3>
         <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=databricks&logoColor=FF3621" />
-        <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-        <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/MySQL-1D2026?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1A1C22?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
       </div>
       <div>
       <h3>🔐 Cybersecurity & Digital Forensics</h3>
@@ -124,20 +124,20 @@
       <div>
       <h3>🎮 Game Development</h3>
         <img src="https://img.shields.io/badge/Roblox_Studio-20232A?style=for-the-badge&logo=robloxstudio&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Pygame-20232A?style=for-the-badge&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/Unity-1D2026?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Pygame-1A1C22?style=for-the-badge&logo=python&logoColor=3776AB" />
       </div>
       <div>
       <h3>🎨 Design & Creative Tools</h3>
         <img src="https://img.shields.io/badge/Blender-20232A?style=for-the-badge&logo=blender&logoColor=F5792A" />
-        <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-        <img src="https://img.shields.io/badge/Canva-20232A?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+        <img src="https://img.shields.io/badge/Figma-1D2026?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+        <img src="https://img.shields.io/badge/Canva-1A1C22?style=for-the-badge&logo=canva&logoColor=00C4CC" />
       </div>
       <div>
       <h3>⚙️ Development Tools</h3>
         <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" />
-        <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+        <img src="https://img.shields.io/badge/GitHub-1D2026?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Docker-1A1C22?style=for-the-badge&logo=docker&logoColor=2496ED" />
       </div>
   </div>
   
