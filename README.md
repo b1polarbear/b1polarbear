@@ -24,34 +24,34 @@
     </ul>
   </div>
 
-   <div>
-     <h2>🚀 Current Projects</h2>
-     <table>
-       <tr>
-          <td width="33%" valign="top">
-          <img src="projectExosignal.png" width="100%" alt="Project One screenshot" />
-          <h3>👽Project: EXOSIGNAL</h3>
-          <p>Project: EXOSIGNAL is a first person shooter game on Roblox.</p>
+  <div>
+    <h2>🚀 Current Projects</h2>
+    <table>
+      <tr>
+        <td width="33%" valign="top">
+          <img src="./projectExosignal.png" width="100%" alt="Project EXOSIGNAL" />
+          <h3>👽 Project: EXOSIGNAL</h3>
+          <p>A first-person shooter game on Roblox where players fight against extraterrestrial threats.</p>
           <p><strong>Stack:</strong> Luau · Blender</p>
           <a href="https://roblox.com">🚀 Live Demo Coming Soon</a>
-          </td>
-          <td width="33%" valign="top">
-            <a href=""><img src="assets/project-2.svg" width="100%" alt="Project Two screenshot" /></a>
-            <h3>💅 Nailspo</h3>
-            <p>A website where you can find and upload nail designs.</p>
-            <p><strong>Stack:</strong> React · PostgreSQL</p>
-            <a href="https://nailspo.net">🚀 Live Demo</a>
-          </td>
-          <td width="33%" valign="top">
-            <a href=""><img src="assets/project-3.svg" width="100%" alt="Project Three screenshot" /></a>
-            <h3>🤫 Project Three is a secret</h3>
-            <p>My next project will be coming soon. However.. it's a secret..~</p>
-            <p><strong>Stack:</strong> xxx · xxx</p>
-            <a href="">🚀 Live Demo Coming Soon</a>
-          </td>
-        </tr>
-     </table>
-   </div>
+        </td>
+        <td width="33%" valign="top">
+          <img src="./nailspo.png" width="100%" alt="Nailspo" />
+          <h3>💅 Nailspo</h3>
+          <p>A website where users can discover, share, and upload nail designs.</p>
+          <p><strong>Stack:</strong> React · PostgreSQL</p>
+          <a href="https://nailspo.net">🚀 Live Demo</a>
+        </td>
+        <td width="33%" valign="top">
+          <p>Image so secret it won't load</p>
+          <h3>🤫 Top Secret</h3>
+          <p>Something new is in development. More information coming soon...</p>
+          <p><strong>Stack:</strong> ??? · ???</p>
+          <em>🚀 Coming Soon</em>
+        </td>
+      </tr>
+    </table>
+  </div>
 
    <div>
      <h2>🖼️ Gallery / Screenshots</h2>
